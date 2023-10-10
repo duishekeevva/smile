@@ -1,0 +1,96 @@
+.wrapper {
+    width: 700px;
+    height: 700px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: relative;
+}
+
+.first {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 165px;
+    top: 185px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.second {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    right: 165px;
+    top: 185px;
+    border-radius: 50%;
+    background-color: rgb(31, 6, 255);
+}
+
+.third {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+    right: 205px;
+    bottom: 185px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.fourth {
+    position: absolute;
+    width: 320px;
+    height: 150px;
+    right: 197px;
+    bottom: 197px;
+    border-radius: 50%;
+    background-color:yellow;
+}
+
+.fifth {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+    right: 200px;
+    top: 240px;
+}
+
+.sixth {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    left: 200px;
+    top: 240px;
+}
+
+.seventh {
+    position: absolute;
+    width: 275px;
+    height:150px;
+    background-color: brown;
+    right:25px;
+    bottom: -95px;
+}
+
+.seventh {
+    position: absolute;
+    width: 275px;
+    height:150px;
+    background-color: brown;
+    right:25px;
+    bottom: -75px;
+    border-radius:80px 270px 40px 155px;
+}
+
+.eighth {
+    position: absolute;
+    width: 275px;
+    height:150px;
+    background-color: brown;
+    left:25px;
+    bottom: -75px;
+    border-radius:270px 80px 155px 40px;
+}
